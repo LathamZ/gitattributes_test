@@ -1,1 +1,2 @@
 app.config merge=un_merge
+email.json merge=un_merge
